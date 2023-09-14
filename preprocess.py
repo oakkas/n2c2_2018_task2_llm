@@ -1,5 +1,5 @@
 """
-The code is adapted from https://github.com/oakkas/clinicalnlp-ade/tree/master
+The code is adapted from https://github.com/kaivamannam/clinicalnlp-ade
 and modified as necessary
 """
 import re
