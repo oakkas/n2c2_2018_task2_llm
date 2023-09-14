@@ -1,4 +1,4 @@
-# n2c2_2018_task2_llm
+# National NLP Clinical Challenges (n2c2)
 
 <p>n2c2—National NLP Clinical Challenges—is an outgrowth of the former i2b2 Center—Informatics for Integrating Biology and the Bedside. The n2c2 name was chosen to evoke this history.</p>
 
