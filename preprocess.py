@@ -1,7 +1,6 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
-@author: kaivalya mannam
+The code is adapted from https://github.com/oakkas/clinicalnlp-ade/tree/master
+and modified as necessary
 """
 import re
 from bisect import bisect_right
