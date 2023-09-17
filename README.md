@@ -7,6 +7,11 @@
 <p>505 discharge summaries drawn from the MIMIC-III (Medical Information Mart for Intensive Care-III) clinical care database, selected using a query that searched for an ADE in the International Classification of Diseases code description of each record</p>
 
 ## Related Work
-<p>https://www.sciencedirect.com/science/article/pii/S1532046420300095</p>
-<p>https://github.com/Ilseyar/relation-extraction-ehr</p>
-<p>https://github.com/smitkiri/ehr-relation-extraction</p>
+<ul>
+<li>https://www.sciencedirect.com/science/article/pii/S1532046420300095</li>
+<li>https://github.com/Ilseyar/relation-extraction-ehr</li>
+<li>https://github.com/smitkiri/ehr-relation-extraction</li>
+<li>https://github.com/CrowdTruth/Medical-Relation-Extraction</li>
+<li>https://github.com/topics/clinical-nlp</li>
+<li>https://github.com/OHNLP/awesome-clinical-nlp</li>
+<ul>
