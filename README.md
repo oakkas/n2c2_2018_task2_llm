@@ -17,5 +17,7 @@
 <li>https://github.com/topics/medical-natural-language-processing</li>
 <li> The below work looks closer to what we want to do with LLMs</li>
 <p>https://github.com/Lathashree01/LlamaClinicalRE</p>
+<li>the belo also looks interesting</li>
+<p>https://github.com/microsoft/clinical-self-verification</p>
 <ul>
 
