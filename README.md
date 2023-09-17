@@ -15,7 +15,7 @@
 <li>https://github.com/topics/clinical-nlp</li>
 <li>https://github.com/OHNLP/awesome-clinical-nlp</li>
 <li>https://github.com/topics/medical-natural-language-processing</li>
+<li> The below work looks closer to what we want to do with LLMs</li>
+<p>https://github.com/Lathashree01/LlamaClinicalRE</p>
 <ul>
 
-<p> The below work looks closer to what we want to do with LLMs</p>
-<li>https://github.com/Lathashree01/LlamaClinicalRE</li>
