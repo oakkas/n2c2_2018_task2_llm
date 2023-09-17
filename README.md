@@ -14,4 +14,8 @@
 <li>https://github.com/CrowdTruth/Medical-Relation-Extraction</li>
 <li>https://github.com/topics/clinical-nlp</li>
 <li>https://github.com/OHNLP/awesome-clinical-nlp</li>
+<li>https://github.com/topics/medical-natural-language-processing</li>
 <ul>
+
+<p> The below work looks closer to what we want to do with LLMs</p>
+<li>https://github.com/Lathashree01/LlamaClinicalRE</li>
