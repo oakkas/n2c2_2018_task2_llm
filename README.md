@@ -5,3 +5,7 @@
 ## Adverse Drug Events & Medication Extraction:
 
 <p>505 discharge summaries drawn from the MIMIC-III (Medical Information Mart for Intensive Care-III) clinical care database, selected using a query that searched for an ADE in the International Classification of Diseases code description of each record</p>
+
+## Related Work
+<p>https://www.sciencedirect.com/science/article/pii/S1532046420300095</p>
+<p>https://github.com/Ilseyar/relation-extraction-ehr</p>
