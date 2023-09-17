@@ -9,3 +9,4 @@
 ## Related Work
 <p>https://www.sciencedirect.com/science/article/pii/S1532046420300095</p>
 <p>https://github.com/Ilseyar/relation-extraction-ehr</p>
+<p>https://github.com/smitkiri/ehr-relation-extraction</p>
